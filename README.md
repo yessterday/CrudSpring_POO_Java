@@ -3,7 +3,7 @@ Este projeto apresenta o desenvolvimento de um sistema CRUD em Java Spring Boot 
 
 - **Aluno:** Fernando Gabriel Costa Castro
 - **RA:** 202303208677
-- 
+
 <br><br/>
 
 # O que é um CRUD e para que serve?
